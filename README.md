@@ -1,1 +1,3 @@
-# linked-lists
+# Linked Lists
+
+My own implementation of a Linked List in javascript, A linked list is a data structure composed of nodes that holds a value and a pointer to the next node. The main benefit of a linked list is that you can easily insert or remove elements without any reallocation or shifting of any other elements because a linked list is not dependent in the index but rather in the node itself which is only concerned about its own value and its pointer to the next node and not its position from the whole list.
